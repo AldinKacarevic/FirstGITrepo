@@ -5,4 +5,4 @@ Trying it out
 This is Aldin trying to change a file at Github for the first time. *hehe* **hehehe**
 Trying out what is a >blockquote
 `this should look like code i guess`
-:joy: :🇨🇿:
+:joy: 🇨🇿
